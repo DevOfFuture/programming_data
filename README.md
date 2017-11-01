@@ -1,2 +1,2 @@
 # programming_data
-Contains information about programming, libraries, franeworks
+Contains information about programming, libraries, frameworks
